@@ -13,8 +13,8 @@
 
 
 进展情况：
-1 已将SRA数据转为fastq，正在寻找核盘菌和甘蓝型油菜raw-data接头，待下一步预处理。
-2 具体展开的逻辑思路构思
+1. 已将SRA数据转为fastq，正在寻找核盘菌和甘蓝型油菜raw-data接头，待下一步预处理。
+2. 具体展开的逻辑思路构思
 
 ### 新的侵染数据
-[暂无](/RESOURCE/DATA/)
+[暂无](https://github.com/mrssz/B404/tree/master/RESOURCE/Date)
