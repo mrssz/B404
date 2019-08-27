@@ -18,3 +18,8 @@
 
 ### 新的侵染数据
 [暂无](https://github.com/mrssz/B404/tree/master/RESOURCE/Date)
+
+
+### RNAhybrid用法
+http://www.doc88.com/p-372880903190.html
+https://bibiserv.cebitec.uni-bielefeld.de/rnahybrid?id=rnahybrid_view_download
